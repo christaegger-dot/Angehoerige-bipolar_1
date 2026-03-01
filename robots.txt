@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /handouts-legacy/
+Disallow: /reports/
+
+Sitemap: https://bipolar-psychoedukation-puk.netlify.app/sitemap.xml
